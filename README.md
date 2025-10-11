@@ -25,19 +25,19 @@ const kunwar = {
   experience: "16+ years",
   role: "Full-Stack Developer & Tech Lead",
   company: "Cybernamix AI",
-  focus: ["E-commerce Solutions", "OpenCart Extensions", "API Development"],
+  focus: ["AI Tools", "E-commerce Solutions", "Developer Tools"],
   passion: "Building tools that solve real-world problems",
-  currentProject: "OpenCart 3→4 Migration Tool",
+  currentProjects: ["Mini-CoderBrain", "Claudex", "OpenCart Migration"],
   philosophy: "Clean code, scalable architecture, user-first design"
 };
 ```
 
-- 🔭 Currently working on **OpenCart Migration Tools** & **E-commerce Automation**
-- 🌱 Exploring **AI/ML integration** in e-commerce platforms
-- 💡 16+ years of experience in **Web & Mobile Development**
-- 🛠️ Built enterprise solutions for **E-commerce, Healthcare, FinTech, Logistics**
-- 🌍 Expert in **APIs, Maps Integration, Database Migrations, Cloud Architecture**
-- 📫 Reach me: **kunwar@cybernamix.ca**
+🔭 Currently working on **AI Dev Tools** & **E-commerce Solutions**<br>
+🤖 Building **Claude Code context management** and **conversation analytics**<br>
+💡 16+ years of experience in **Web & Mobile Development**<br>
+🛠️ Built enterprise solutions for **E-commerce, Healthcare, FinTech, Logistics**<br>
+🌍 Expert in **APIs, Maps Integration, Database Migrations, Cloud Architecture**<br>
+📫 Reach me: **kunwar@cybernamix.ca**
 
 ---
 
@@ -167,15 +167,41 @@ const kunwar = {
 
 <div align="center">
 
-### 🚀 OpenCart 3→4 Migration Tool
-[![OpenCart Migration](https://github-readme-stats.vercel.app/api/pin/?username=kunwar-shah&repo=opencart-migration-tool&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=667eea&text_color=c3cee3)](https://github.com/kunwar-shah/opencart-migration-tool)
+### 🤖 Mini-CoderBrain
+[![Mini-CoderBrain](https://github-readme-stats.vercel.app/api/pin/?username=kunwar-shah&repo=mini-coder-brain&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=667eea&text_color=c3cee3)](https://github.com/kunwar-shah/mini-coder-brain)
+
+**AI context management system for Claude Code**
+
+🧠 Real-time activity tracking & intelligent memory management<br>
+🔄 Cross-session continuity with automatic project detection<br>
+📊 Zero configuration setup with hook-based approach<br>
+🎯 Solves "prompt too long" errors & context loss<br>
+⚡ Makes AI coding assistants persistent and context-aware
+
+---
+
+### 📊 Claudex
+[![Claudex](https://github-readme-stats.vercel.app/api/pin/?username=kunwar-shah&repo=claudex&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=667eea&icon_color=667eea&text_color=c3cee3)](https://github.com/kunwar-shah/claudex)
+
+**Web app for viewing & analyzing Claude Code conversations**
+
+🔍 Full-text search powered by SQLite FTS5<br>
+⚛️ Modern React UI with automatic project discovery<br>
+📤 Export options (JSON, HTML, TXT)<br>
+🎨 Smart message rendering for code blocks & diffs<br>
+🚀 Built with Node.js, Fastify, React, and Vite
+
+---
+
+### 🛒 OpenCart 3→4 Migration Tool
 
 **Complete automated migration solution for OpenCart stores**
-- ✅ All 11 core migration steps automated
-- ⚡ 225x performance improvement with bulk processing
-- 🎯 Smart ID mapping & foreign key handling
-- 🛡️ Zero data loss with validation suite
-- 📚 [Live Documentation](https://opencart-migration-docs.netlify.app)
+
+✅ All 11 core migration steps automated<br>
+⚡ 225x performance improvement with bulk processing<br>
+🎯 Smart ID mapping & foreign key handling<br>
+🛡️ Zero data loss with validation suite<br>
+📚 [Live Documentation](https://opencart-migration-docs.netlify.app)
 
 </div>
 
@@ -225,12 +251,12 @@ Cloud & DevOps:
 
 ### 🚀 Key Achievements
 
-- 🏆 **16+ years** of professional software development
-- 📦 Built **enterprise solutions** for Fortune 500 companies
-- 🌍 Worked on projects across **Healthcare, FinTech, E-commerce, Logistics**
-- ⚡ Optimized systems handling **millions of transactions** daily
-- 🎓 Mentored **50+ developers** in modern web/mobile development
-- 🛠️ Created tools used by **thousands of developers** worldwide
+🏆 **16+ years** of professional software development<br>
+📦 Built **enterprise solutions** for Fortune 500 companies<br>
+🌍 Worked on projects across **Healthcare, FinTech, E-commerce, Logistics**<br>
+⚡ Optimized systems handling **millions of transactions** daily<br>
+🎓 Mentored **50+ developers** in modern web/mobile development<br>
+🛠️ Created tools used by **thousands of developers** worldwide
 
 ---
 
@@ -238,25 +264,25 @@ Cloud & DevOps:
 
 ```javascript
 const currentFocus = {
-  learning: [
-    "AI/ML integration in e-commerce",
-    "Advanced React patterns",
-    "Kubernetes orchestration",
-    "GraphQL federation"
-  ],
-
   building: [
-    "OpenCart Migration Ecosystem",
-    "E-commerce Automation Tools",
-    "API Management Platform",
-    "Developer Documentation Sites"
+    "Mini-CoderBrain - AI context management for Claude Code",
+    "Claudex - Claude conversation analytics platform",
+    "OpenCart 3→4 Migration Tool",
+    "Developer productivity tools"
   ],
 
   exploring: [
-    "Edge computing with Cloudflare Workers",
+    "AI-powered development workflows",
+    "Advanced context management systems",
     "Real-time collaboration tools",
-    "Blockchain for supply chain",
     "Progressive Web Apps (PWA)"
+  ],
+
+  learning: [
+    "Advanced AI integration patterns",
+    "React performance optimization",
+    "SQLite FTS5 full-text search",
+    "Modern developer tooling"
   ]
 };
 ```
@@ -268,11 +294,12 @@ const currentFocus = {
 <div align="center">
 
 ### I'm always interested in:
-- 💼 **Consulting opportunities** for e-commerce projects
-- 🤝 **Collaborations** on open-source projects
-- 📚 **Technical discussions** about architecture & best practices
-- 🎤 **Speaking engagements** at tech conferences
-- 📝 **Writing** technical blog posts & tutorials
+
+💼 **Consulting opportunities** for e-commerce projects<br>
+🤝 **Collaborations** on open-source projects<br>
+📚 **Technical discussions** about architecture & best practices<br>
+🎤 **Speaking engagements** at tech conferences<br>
+📝 **Writing** technical blog posts & tutorials<br>
 
 ### 📫 Reach Out
 
