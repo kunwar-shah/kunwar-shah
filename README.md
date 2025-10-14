@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+16%2B+Years;E-commerce+Specialist;Mobile+%26+Web+Expert;API+%26+Cloud+Architect)](https://git.io/typing-svg)
 
-**Founder & Lead Developer at [Cybernamix AI](https://cybernamix.ai)**
+**Co Founder & Lead Developer at [Cybernamix AI](https://cybernamix.ai)**
 Building powerful tools for e-commerce, web, and mobile platforms
 
 [![Website](https://img.shields.io/badge/Website-cybernamix.ai-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cybernamix.ai)
