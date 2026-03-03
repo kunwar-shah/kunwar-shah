@@ -35,7 +35,7 @@ const kunwar = {
 
 🔭 Currently working on **AI Dev Tools** & **E-commerce Solutions**<br>
 🤖 Building **Claude Code context management** and **conversation analytics**<br>
-💡 16+ years of experience in **Web & Mobile Development**<br>
+💡 20+ years of experience in **Web & Mobile Development**<br>
 🛠️ Built enterprise solutions for **E-commerce, Healthcare, FinTech, Logistics**<br>
 🌍 Expert in **APIs, Maps Integration, Database Migrations, Cloud Architecture**<br>
 📫 Reach me: **kunwar@cybernamix.ca**
@@ -268,7 +268,7 @@ Cloud & DevOps:
 
 ### 🚀 Key Achievements
 
-🏆 **16+ years** of professional software development<br>
+🏆 **20+ years** of professional software development<br>
 📦 Built **enterprise solutions** for Fortune 500 companies<br>
 🌍 Worked on projects across **Healthcare, FinTech, E-commerce, Logistics**<br>
 ⚡ Optimized systems handling **millions of transactions** daily<br>
