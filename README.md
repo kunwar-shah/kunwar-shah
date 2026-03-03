@@ -2,13 +2,13 @@
 
 # 👋 Hi, I'm Kunwar Jhamat
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+16%2B+Years;E-commerce+Specialist;Mobile+%26+Web+Expert;API+%26+Cloud+Architect)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+20%2B+Years;Writing+at+decyon.com;E-commerce+%26+AI+Systems;System+Architecture+%26+ETL)](https://git.io/typing-svg)
 
 **Co Founder & Lead Developer at [Cybernamix AI](https://cybernamix.ai)**
 Building powerful tools for e-commerce, web, and mobile platforms
 
-[![Website](https://img.shields.io/badge/Website-cybernamix.ai-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cybernamix.ai)
-[![Email](https://img.shields.io/badge/Email-kunwar%40cybernamix.ca-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunwar@cybernamix.ca)
+[![DECYON](https://img.shields.io/badge/Blog-decyon.com-667eea?style=for-the-badge&logo=google-chrome&logoColor=white)](https://decyon.com)
+[![Website](https://img.shields.io/badge/Website-cybernamix.ai-764abc?style=for-the-badge&logo=google-chrome&logoColor=white)](https://cybernamix.ai)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kunwar--jhamat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kunwar-jhamat/)
 [![X](https://img.shields.io/badge/X-@publicphp-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/publicphp)
 
@@ -22,12 +22,13 @@ Building powerful tools for e-commerce, web, and mobile platforms
 
 ```typescript
 const kunwar = {
-  experience: "16+ years",
+  experience: "20+ years",
   role: "Full-Stack Developer & Tech Lead",
   company: "Cybernamix AI",
-  focus: ["AI Tools", "E-commerce Solutions", "Developer Tools"],
+  writing: "decyon.com — Engineering clarity in the age of AI",
+  focus: ["AI Tools", "System Architecture", "E-commerce", "ETL Pipelines"],
   passion: "Building tools that solve real-world problems",
-  currentProjects: ["Mini-CoderBrain", "Claudex", "OpenCart Migration"],
+  currentProjects: ["DECYON", "Mini-CoderBrain", "Claudex"],
   philosophy: "Clean code, scalable architecture, user-first design"
 };
 ```
@@ -38,6 +39,22 @@ const kunwar = {
 🛠️ Built enterprise solutions for **E-commerce, Healthcare, FinTech, Logistics**<br>
 🌍 Expert in **APIs, Maps Integration, Database Migrations, Cloud Architecture**<br>
 📫 Reach me: **kunwar@cybernamix.ca**
+
+---
+
+## ✍️ Writing at DECYON
+
+I write about engineering decisions, system architecture, and AI in production at **[decyon.com](https://decyon.com)** — sharing what worked, what broke, and what I would do differently after 20+ years of building systems.
+
+### Latest Posts
+- [Understanding ETL: The Philosophy Behind Data Pipelines](https://decyon.com/etl-pipeline-philosophy/)
+- [The 6-Phase Pipeline Pattern](https://decyon.com/6-phase-etl-pipeline-pattern-why-its-needed/)
+- [How Large Language Models Actually Work](https://decyon.com/llm-visual-guide/)
+- [Iterator Patterns: Memory-Efficient Data Processing](https://decyon.com/memory-efficient-data-processing-iterator-patterns/)
+- [Building AI-Ready ETL Pipelines](https://decyon.com/ai-ready-etl-pipelines/)
+- [Types of ETL Pipelines: A Complete Guide](https://decyon.com/types-of-etl-pipelines/)
+
+> *"Do not imitate. Understand."* — The DECYON philosophy
 
 ---
 
@@ -265,9 +282,9 @@ Cloud & DevOps:
 ```javascript
 const currentFocus = {
   building: [
+    "DECYON - Engineering knowledge platform (decyon.com)",
     "Mini-CoderBrain - AI context management for Claude Code",
     "Claudex - Claude conversation analytics platform",
-    "OpenCart 3→4 Migration Tool",
     "Developer productivity tools"
   ],
 
@@ -303,8 +320,8 @@ const currentFocus = {
 
 ### 📫 Reach Out
 
-[![Website](https://img.shields.io/badge/🌐_Website-cybernamix.ai-667eea?style=for-the-badge)](https://cybernamix.ai)
-[![Email](https://img.shields.io/badge/📧_Email-kunwar@cybernamix.ca-EA4335?style=for-the-badge)](mailto:kunwar@cybernamix.ca)
+[![DECYON](https://img.shields.io/badge/📝_Blog-decyon.com-667eea?style=for-the-badge)](https://decyon.com)
+[![Website](https://img.shields.io/badge/🌐_Website-cybernamix.ai-764abc?style=for-the-badge)](https://cybernamix.ai)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/kunwar-jhamat/)
 [![X/Twitter](https://img.shields.io/badge/🐦_X-Follow-000000?style=for-the-badge)](https://x.com/publicphp)
 
